@@ -1,0 +1,15 @@
+D:\FACULDADE\2PERIODO\AED\ATIVIDADES\at3\Atividade_3 - Salario\bin\Debug\net6.0\Atividade_3 - Salario.exe
+D:\FACULDADE\2PERIODO\AED\ATIVIDADES\at3\Atividade_3 - Salario\bin\Debug\net6.0\Atividade_3 - Salario.deps.json
+D:\FACULDADE\2PERIODO\AED\ATIVIDADES\at3\Atividade_3 - Salario\bin\Debug\net6.0\Atividade_3 - Salario.runtimeconfig.json
+D:\FACULDADE\2PERIODO\AED\ATIVIDADES\at3\Atividade_3 - Salario\bin\Debug\net6.0\Atividade_3 - Salario.dll
+D:\FACULDADE\2PERIODO\AED\ATIVIDADES\at3\Atividade_3 - Salario\bin\Debug\net6.0\Atividade_3 - Salario.pdb
+D:\FACULDADE\2PERIODO\AED\ATIVIDADES\at3\Atividade_3 - Salario\obj\Debug\net6.0\Atividade_3 - Salario.csproj.AssemblyReference.cache
+D:\FACULDADE\2PERIODO\AED\ATIVIDADES\at3\Atividade_3 - Salario\obj\Debug\net6.0\Atividade_3 - Salario.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULDADE\2PERIODO\AED\ATIVIDADES\at3\Atividade_3 - Salario\obj\Debug\net6.0\Atividade_3 - Salario.AssemblyInfoInputs.cache
+D:\FACULDADE\2PERIODO\AED\ATIVIDADES\at3\Atividade_3 - Salario\obj\Debug\net6.0\Atividade_3 - Salario.AssemblyInfo.cs
+D:\FACULDADE\2PERIODO\AED\ATIVIDADES\at3\Atividade_3 - Salario\obj\Debug\net6.0\Atividade_3 - Salario.csproj.CoreCompileInputs.cache
+D:\FACULDADE\2PERIODO\AED\ATIVIDADES\at3\Atividade_3 - Salario\obj\Debug\net6.0\Atividade_3 - Salario.dll
+D:\FACULDADE\2PERIODO\AED\ATIVIDADES\at3\Atividade_3 - Salario\obj\Debug\net6.0\refint\Atividade_3 - Salario.dll
+D:\FACULDADE\2PERIODO\AED\ATIVIDADES\at3\Atividade_3 - Salario\obj\Debug\net6.0\Atividade_3 - Salario.pdb
+D:\FACULDADE\2PERIODO\AED\ATIVIDADES\at3\Atividade_3 - Salario\obj\Debug\net6.0\Atividade_3 - Salario.genruntimeconfig.cache
+D:\FACULDADE\2PERIODO\AED\ATIVIDADES\at3\Atividade_3 - Salario\obj\Debug\net6.0\ref\Atividade_3 - Salario.dll
